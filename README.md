@@ -45,9 +45,8 @@ I build automated CI/CD pipelines, containerized platforms, and cloud infrastruc
 
 ---
 
-## 📫 Contact
+## 📫Social
 
-- 📧 Email: [tarekmostafak10@gmail.com](mailto:tarekmostafak10@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tarek-mostafa-0087a9293)
 
 ---
